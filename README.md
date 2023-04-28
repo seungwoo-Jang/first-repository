@@ -11,3 +11,4 @@ GitHub에서 수정한 저장소를 열고, "New Pull Request" 버튼을 클릭�
 원본 저장소의 소유자가 Pull Request를 검토하고, 코드에 대한 논의를 진행합니다.
 Pull Request가 승인되면, 코드가 원본 저장소에 병합됩니다.
 ```
+seungwoo  
